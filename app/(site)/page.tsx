@@ -7,10 +7,10 @@ export default function Home() {
       <div className="sm:mx-auto sm:w-full sm:max-w-md">
         <Image
           alt="Logo"
-          height="48"
-          width="48"
-          className="mx-auto w-auto"
-          src="/images/logo.png"
+          height="68"
+          width="68"
+          className="mx-auto w-auto rounded-full"
+          src="/images/logo2.webp"
         />
         <h2 className="mt-6 text-center text-3xl font-bold text-gray-900">
           Sign in to your account
