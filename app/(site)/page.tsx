@@ -13,7 +13,7 @@ export default function Home() {
           src="/images/logo2.webp"
         />
         <h2 className="mt-6 text-center text-3xl font-bold text-gray-900">
-          Sign in to your account
+          Sign in to your CuteMessenger account
         </h2>
       </div>
       <AuthForm />
